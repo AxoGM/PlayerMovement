@@ -15,8 +15,10 @@ that have:
 
 ## Hierarchy
 
-
+<img src="img/1.5.png">
 
 ## Inpector
+
+
 
 required **DOTween (HOTween v2)** for camera
