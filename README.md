@@ -19,6 +19,12 @@ that have:
 
 ## Inpector
 
+### camera holder
 
+<img src="img/2.png">
+
+### main camera / player camera
+
+<img src="img/22.png">
 
 required **DOTween (HOTween v2)** for camera
