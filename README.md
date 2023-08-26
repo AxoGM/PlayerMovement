@@ -15,7 +15,7 @@ that have:
 
 ## Hierarchy
 
-<img src="img/1.png">
+
 
 ## Inpector
 
