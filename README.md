@@ -13,6 +13,10 @@ that have:
 - dash
 ```
 
-<img src="">
+## Hierarchy
+
+<img src="img/1.png">
+
+## Inpector
 
 required **DOTween (HOTween v2)** for camera
