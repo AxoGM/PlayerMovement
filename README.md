@@ -3,6 +3,7 @@
 <p>player movement for unity.</p>
 
 that have:
+
 ```
 - slope movement
 - sprinting
@@ -28,3 +29,6 @@ that have:
 <img src="img/22.png">
 
 required **DOTween (HOTween v2)** for camera
+
+### playermovement
+
